@@ -1,0 +1,35 @@
+_repo: La-rovina-della-civilta-antica_71390
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ferrero, Leo
+    gutenberg_agent_id: '56201'
+    url: http://www.gutenberg.org/2009/agents/56201
+creator:
+  author:
+    agent_name: Ferrero, Guglielmo
+    birthdate: 1871
+    deathdate: 1942
+    gutenberg_agent_id: '4910'
+    url: http://www.gutenberg.org/2009/agents/4910
+    wikipedia:
+    - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
+    - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
+description: ''
+gutenberg_issued: '2023-08-11'
+identifiers:
+  gutenberg: '71390'
+language: it
+pgterms:marc905: 20230104044631ferrero
+pgterms:marc906: '1926'
+pgterms:marc907: IT
+production_note: Barbara Magni and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images made available by the HathiTrust Digital Library)
+publication_note: '  $aMilano :$bAthena, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: La rovina della civiltà antica
+url: http://www.gutenberg.org/ebooks/71390
