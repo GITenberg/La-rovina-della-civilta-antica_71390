@@ -5,6 +5,9 @@ contributor:
     agent_name: Ferrero, Leo
     gutenberg_agent_id: '56201'
     url: http://www.gutenberg.org/2009/agents/56201
+covers:
+- cover_type: archival
+  image_path: 71390-h/images/cover.jpg
 creator:
   author:
     agent_name: Ferrero, Guglielmo
@@ -16,6 +19,8 @@ creator:
     - https://it.wikipedia.org/wiki/Guglielmo_Ferrero
     - https://en.wikipedia.org/wiki/Guglielmo_Ferrero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71390#La-rovina-della-civilta-antica
 gutenberg_issued: '2023-08-11'
 identifiers:
   gutenberg: '71390'
